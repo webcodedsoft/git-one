@@ -1,1 +1,3 @@
-console.log("Js File")
+function name(params) {
+    console.log("Js File")
+}
