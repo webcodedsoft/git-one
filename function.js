@@ -1,1 +1,1 @@
-console.log("Js File")
+function (){}
